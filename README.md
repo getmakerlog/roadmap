@@ -23,6 +23,14 @@ Labels will give more metadata about what the task is about. As needed more labe
 
 - `existing`: This feature exists already on the current Makerlog.
 
+### Milestones
+
+Milestones will give more details on when you can expect to see said feature working in the new version. The following milestones exist:
+
+- `Alpha`: Features are working in the alpha version of the platform.
+- `Beta`: Features are working in the beta version of the platform.
+- `Public`: Features are available in the general public version of the platform.
+
 ## Discussions
 
 Currently discussions have been enabled for this repository, so please feel free to utilize the sections: https://github.com/getmakerlog/roadmap/discussions
