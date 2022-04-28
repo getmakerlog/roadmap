@@ -17,6 +17,12 @@ There are four columns to be aware of and they are as follows:
 
 All cards in the board will be converted to issues, where the community is welcome to talk about the feature in depth with everyone else to give feedback or guidance.
 
+### Labels
+
+Labels will give more metadata about what the task is about. As needed more labels will be created but for now, here's what existing labels mean:
+
+- `existing`: This feature exists already on the current Makerlog.
+
 ## Discussions
 
 Currently discussions have been enabled for this repository, so please feel free to utilize the sections: https://github.com/getmakerlog/roadmap/discussions
