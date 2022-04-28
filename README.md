@@ -11,7 +11,11 @@ There are four columns to be aware of and they are as follows:
 - `Rejected`: These are features that have been rejected currently, BUT could be explored in a future time.
 - `Done`: These are things that have been completed.
 
-**Please Note:** Existing features will be added to the board and prefixed with `[EXISTING]` as to let everyone know that an existing Makerlog feature will persist over to the rebuild.
+**Please Note:** Existing features will be added to the board and have the label `existing` as to let everyone know that an existing Makerlog feature will persist over to the rebuild.
+
+## Issues
+
+All cards in the board will be converted to issues, where the community is welcome to talk about the feature in depth with everyone else to give feedback or guidance.
 
 ## Discussions
 
