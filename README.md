@@ -1,6 +1,6 @@
-# Makerlog v3 Public Roadmap
+# Makerlog v4 Public Roadmap
 
-This is the public roadmap for the rebuild of Makerlog v3. Please view roadmap here: https://github.com/orgs/getmakerlog/projects/1
+This is the public roadmap for the rebuild of Makerlog v4. Please view roadmap here: https://github.com/orgs/getmakerlog/projects/1
 
 ## Column Information
 
